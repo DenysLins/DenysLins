@@ -1,0 +1,25 @@
+{
+  "name": "denyslins",
+  "version": "1.0.0",
+  "description": "Hi guys... I'm passionate about solving problems using programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenysLins/DenysLins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenysLins/DenysLins/issues"
+  },
+  "homepage": "https://github.com/DenysLins/DenysLins#readme",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0"
+  }
+}
