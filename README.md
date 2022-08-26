@@ -15,3 +15,5 @@ I'm passionate about solving problems using programming
 <!-- FOLLOWER-LIST:START -->
 
 <!-- FOLLOWER-LIST:END -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denyslins)](https://github.com/anuraghazra/github-readme-stats)
